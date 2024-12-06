@@ -1,3 +1,3 @@
 # SPOTYFY
 
-Basically Spotify but localized.
+To avoid woke ads without having to pay for premium. 
